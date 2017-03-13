@@ -67,4 +67,4 @@ Create & Save Map  --- 34.0720000267 seconds ---
 OSM map saved to [Omitted]
 
 ###The map generated is also included in the folder (see VRP_Loops - Output_Map.html).###
-###Try https://rawgit.com/hcc38/Vehicle-Routing-Problem/master/VRP_Loops%20-%20Output_Map.html for display###
+###Try https://rawgit.com/hcc38/Vehicle-Routing-Problem/master/Results/VRP_Loops%20-%20Output_Map.html for display.###
